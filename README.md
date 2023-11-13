@@ -5,6 +5,6 @@ Author - Fatema Chowdhury
 https://chowdhuryfatema.github.io/Weather-App/
 ## Technologies
 -Html5 </br>
--Row CSS </br>
+-Raw CSS </br>
 -JavaScript </br>
 -Responsive
